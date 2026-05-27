@@ -18,3 +18,7 @@ O material foi pensado para estudantes, pesquisadores e profissionais de computa
 O exemplo prático usa o arquivo cardio_train.csv, do conjunto Cardiovascular Disease Dataset, disponível no Kaggle: https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
 
 O arquivo de dados também está incluído neste repositório. 
+
+## Slides
+
+https://rpubs.com/leticiaraposo/shap
